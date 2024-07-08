@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My first application</string>
+    <string name="categorias_label">Categorías</string>
+    <string name="consejos_label">Consejos</string>
+    <string name="estadisticas_label">Estadísticas</string>
+</resources>
